@@ -7,4 +7,5 @@ IMAGE_INSTALL_append += "linux-firmware-rpidistro-bcm43455 \
                          dhcp-server \
                          iptables \
                          gettext \
-                         wpa-supplicant"
+                         wpa-supplicant \
+                         docker-ce"
