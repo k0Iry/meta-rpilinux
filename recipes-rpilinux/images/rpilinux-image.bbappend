@@ -1,5 +1,6 @@
 DISTRO_FEATURES_append += "bluetooth \
-                           wifi"
+                           wifi \
+                           virtualization"
 
 IMAGE_INSTALL_append += "linux-firmware-rpidistro-bcm43455 \
                          hostapd \
