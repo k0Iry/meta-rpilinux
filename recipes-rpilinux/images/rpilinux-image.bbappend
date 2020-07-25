@@ -7,5 +7,4 @@ IMAGE_INSTALL_append += "linux-firmware-rpidistro-bcm43455 \
                          dhcp-server \
                          iptables \
                          gettext \
-                         shadowsocks-libev \
                          wpa-supplicant"
