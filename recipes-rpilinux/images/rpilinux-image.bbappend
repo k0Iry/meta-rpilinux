@@ -5,4 +5,5 @@ IMAGE_INSTALL_append += "kernel-modules \
                          iptables \
                          gettext \
                          wpa-supplicant \
-                         docker-ce"
+                         docker-ce \
+                         python3-docker-compose"
