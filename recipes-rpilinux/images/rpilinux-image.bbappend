@@ -1,5 +1,6 @@
 IMAGE_INSTALL_append += "kernel-modules \
                          wireguard-module \
+                         wireguard-tools \
                          linux-firmware-rpidistro-bcm43455 \
                          hostapd \
                          kea \
