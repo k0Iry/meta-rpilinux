@@ -1,4 +1,5 @@
-IMAGE_INSTALL_append += "kernel-modules \
+IMAGE_INSTALL_append += "iw \
+                         crda \
                          wireguard-tools \
                          linux-firmware-rpidistro-bcm43455 \
                          hostapd \
